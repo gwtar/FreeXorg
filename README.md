@@ -8,4 +8,14 @@ un-universal because for example I want to set my wallpaper, well on xorg I just
 nitrogen and done but on wayland it was depended on how the developer manage the wallpapering on their wayland
 WM, ok just that sorry for bad english
 
+and I ALSO like how the xorg ecosystem
+
+you just need the base display server in this case xorg and just add a bunch of nice things on top of it
+to make a Window Manager, like dwm, xanmod and etc
+
+but on wayland you NEED to write your own wm from scratch because in the end
+# wayland was just a set of rule
+
+ok thats it bye lolz
+
 - gwtar
